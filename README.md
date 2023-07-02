@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanishkDev 
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in python rust c++
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail me at anynmoussirohi@gmail.com
 
